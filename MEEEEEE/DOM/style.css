@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #666;
+	color: #f63;
+	padding: 10px;
+	text-align: center;
+	border: 3px solid #f63;
+	border-radius: 20px;
+	margin: 20px;
+	height: 100vh;
+}
+

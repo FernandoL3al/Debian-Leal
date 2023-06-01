@@ -1,0 +1,38 @@
+* Sun Mar 12 2023 cat_in_136 - v0.8
+
+- rewrite all of gtk-3.20/gtk-widges.cs
+
+* Sat Jun 05 2021 cat_in_136 - v0.7
+
+- Set menuitem/menu background to @bg_color implicitly to fix cat-in-136/FlatSurfacesTheme#4
+
+* Sun Aug 02 2020 cat_in_136 - v0.6
+
+- Make the cinnamon theme compatible with transparent panels extension
+
+* Thu Jul 12 2018 cat_in_136 - v0.5
+
+- Updated for metacity-3.26
+- Fix css for GTK+3.22
+
+* Sun Aug 06 2017 cat_in_136 - v0.4
+
+- Introduce darker theme
+- Unify FlatSurfacesOnTheNight variant theme
+
+* Fri Jul 28 2017 cat_in_136 - v0.3
+
+- Fix a bug of cinnamon notifications visibility
+- Fix a bug of icon invisibility on the budgie panel
+- Fix viewport appearance
+- Fix a bug where the selection on iconview does not painted with selection color.
+
+* Mon Jul 17 2017 cat_in_136 - v0.2
+- Updated for GTK+3.22, GTK+3.18;
+- Introduce Cinnamon Desktop Theme (Cinnamon v3.4)
+
+* Sun Jun 10 2012 cat_in_136 - v0.1
+- updated for GTK+3.4
+
+* Mon Jan 2 2012 cat_in_136 - v0.0
+- initial release.
